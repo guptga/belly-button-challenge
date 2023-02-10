@@ -1,5 +1,5 @@
 # Belly-button-challenge
-![image](https://user-images.githubusercontent.com/116124534/218004943-9ed4ece8-ece2-440d-9504-48105d1b98a8.png)
+![image](https://user-images.githubusercontent.com/116124534/218005360-c86046a1-0183-45a2-a834-22067682bc39.png)
 
 ### Deployment
 
