@@ -6,7 +6,7 @@
 
 Here is the screenshot of working Dashboard: 
 
-![image](https://user-images.githubusercontent.com/116124534/218024271-30ffaa88-11ec-4d92-8e7d-811e65ff151e.png)
+![image](https://user-images.githubusercontent.com/116124534/218024419-0762fc7b-ea25-4d6e-a8df-a9d0b58ebcf2.png)
 
 ### Background
 
