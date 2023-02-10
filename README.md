@@ -26,9 +26,18 @@ Complete the following steps:
 
 5) Use otu_labels as the hovertext for the chart.
 
+![image](https://user-images.githubusercontent.com/116124534/218010820-6ce15d52-6388-4b29-a3f5-003813f63eab.png)
+
+
 6) Create a bubble chart that displays each sample.
 
+![image](https://user-images.githubusercontent.com/116124534/218010919-7fecf25f-ef32-4971-914b-806334702f06.png)
+
+
 7) Display the sample metadata, i.e., an individual's demographic information.
+
+![image](https://user-images.githubusercontent.com/116124534/218010971-c9ae5709-6521-447f-9603-dfe0d8598462.png)
+
 
 8) Display each key-value pair from the metadata JSON object somewhere on the page.
 
@@ -43,4 +52,8 @@ Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the 
 You will need to modify the example gauge code to account for values ranging from 0 through 9.
 
 Update the chart whenever a new sample is selected.
+
+![image](https://user-images.githubusercontent.com/116124534/218011059-0d8224a7-39b3-4a2f-b5ee-4186d69bb85e.png)
+
+
 
