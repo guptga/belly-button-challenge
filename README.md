@@ -4,7 +4,9 @@
 
 ### Deployment
 
-Here is the screenshot of working Dashboard: 
+Here is the screenshot and link of working Dashboard: 
+
+ https://guptga.github.io/belly-button-challenge/
 
 ![image](https://user-images.githubusercontent.com/116124534/218024419-0762fc7b-ea25-4d6e-a8df-a9d0b58ebcf2.png)
 
