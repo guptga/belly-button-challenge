@@ -81,7 +81,6 @@ d3.json(url).then(function(data) {
                       {range: [6, 7], color: "rgba(142, 178, 35 , .5)"},
                       {range: [7, 8], color:  "rgba(110, 154, 22, .5)"},
                       {range: [8, 9], color: "rgba(50, 143, 10, 0.5)"},
-                      {range: [9, 10], color: "rgba(14, 127, 0, .5)"},
                   ]
               } 
           };
